@@ -12,7 +12,3 @@ D\Left - Left
 J - Activate jetpack<br>
 K - Deactivate jetpack<br>
 Space - Jump
-
-## Special Thanks
-
-Special thanks go's to Reece Dantin and Auden Ullo
